@@ -60,4 +60,8 @@
   .item {
     width: 325px;
   }
+  .wrapper {
+    min-height: 90vh;
+    padding: 10px;
+  }
 }
